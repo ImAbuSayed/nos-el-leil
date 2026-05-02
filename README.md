@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا غرامي في عتمة هذا الليل
+> قلبي ينادي والهوى دليل
+> عيناك تسحرني إلى أبعد سماء
+> والروح تهمس لك في الخفاء
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
