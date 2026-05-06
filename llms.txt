@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 02, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/nos-el-leil/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Apply for Music License: Nos El Leil](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Request Licensing for Nos El Leil](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
