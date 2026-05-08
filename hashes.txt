@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Nos El Leil
+
+This log tracks the cryptographic history and versioning for the song **Nos El Leil** (nos-el-leil).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T22:40:01.959232 | `v1` | `ad3bc739ed499ec6580386af2a8a4a5a0020514085171d58204bed9074ba2d46` | `4c8243fb27d139e86b730b5d80d34200c974a8e0ef30f02bc322153cfe4e3d90` | `2026-05-08_nos-el-leil-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
